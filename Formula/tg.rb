@@ -2,10 +2,10 @@
     class Tg < Formula
         desc "CLI tool to generate folder/file structures from templates"
         homepage "https://github.com/wdwb/tree-generator" 
-        url "https://github.com/wdwb/tree-generator/archive/refs/tags/v0.0.3.tar.gz"
-        sha256 "593fb0592a7418eba7f75824a1c796663c1ad78eb82594ab1c9d407dc3cff7c9" 
+        url "https://github.com/wdwb/tree-generator/archive/refs/tags/v0.0.4.tar.gz"
+        sha256 "a9c0f0895825e02b5c49ee3609bb2d305182adeac230a87217e0857add90528e" 
         license "MIT"
-        version "0.0.3" # 릴리스 버전과 일치
+        version "0.0.4" # 릴리스 버전과 일치
   
         depends_on "go" => :build
   
